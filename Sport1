@@ -6,9 +6,11 @@
     "info": "OKTV",
 
  
-		"stations": [
+		"stations": 
 
- 
+[
+
+{
 "name":"MONOMAX1",
 "image":"https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg", 
 "url":"https://dookeela2.live/live-tv/monomax1",
