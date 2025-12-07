@@ -19,13 +19,13 @@
     {
       "name": "Android ",
       "image": "https://cdn.pixabay.com/animation/2023/11/06/16/01/16-01-37-136_256.gif",
-      "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=th",
+      "url": "market://details?id=com.cloudflare.onedotonedotonedotone",
       "stations": []
     },
     {
       "name": "IOS ",
       "image": "https://cdn.pixabay.com/animation/2023/07/31/11/25/11-25-56-622_256.gif",
-      "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
+      "url": "itms-apps://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
       "stations": []
     },
     {
