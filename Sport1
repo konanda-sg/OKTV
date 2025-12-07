@@ -11,6 +11,13 @@
 [
 
 {
+"name":"PlaysportsFootball1",
+"image":"https://img2.pic.in.th/pic/1000032994.jpg", 
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com",
+"info":"Server vidnt.com",
+"playInNatPlayer":"true"},
+{
 "name":"ONE Championship TV",
 "image":"https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png", 
 "url":"https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8",
