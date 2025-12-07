@@ -1,6 +1,6 @@
 {
   "name": "OKTV",
-  "author": "กดรีเฟรช ประสาน มุมขวาบน",
+  "author": "กรุณาเปิด VPN 1.1.1.1",
   "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/OKTV",
   "image": "https://img.freepik.com/premium-vector/national-sports-day-vector-illustration-with-sportsperson-from-different-sport-flat-cartoon_2175-16026.jpg?w=996",
   "groups": [
@@ -14,6 +14,18 @@
       "name": "Sport 1 ",
       "image": "https://img2.pic.in.th/pic/Gemini_Generated_Image_vjcy5cvjcy5cvjcy.gif",
       "url": "https://raw.githubusercontent.com/mquanggiu290-dotcom/OKTV/refs/heads/main/Sport1",
+      "stations": []
+    },
+    {
+      "name": "Android ",
+      "image": "https://cdn.pixabay.com/animation/2023/11/06/16/01/16-01-37-136_256.gif",
+      "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=th",
+      "stations": []
+    },
+    {
+      "name": "IOS ",
+      "image": "https://cdn.pixabay.com/animation/2023/07/31/11/25/11-25-56-622_256.gif",
+      "url": "https://apps.apple.com/th/app/1-1-1-1-faster-internet/id1423538627",
       "stations": []
     },
     {
