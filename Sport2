@@ -139,6 +139,15 @@
       "playInNatPlayer": true
     },
     {
+      "name": "SportFHD 4",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp4/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
       "name": "SportFHD 5",
       "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
       "url": "https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8",
@@ -214,6 +223,78 @@
       "name": "Bein7HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/500px-Bein_Sports_Logo.svg.png",
       "url": "https://cdn1.googlecdnforstreaming.live/live/bein7/playlist.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "TSPORTS",
+      "image": "https://api.makeitso.online/images/png/sd-tsports.png",
+      "url": "https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8",
+      "referer": "https://livesod365.info/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "TrueSport1 Dkl",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/chunks.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "TrueSport2 Dkl",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp2/chunks.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "TrueSport3 Dkl",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp3/chunks.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "TrueSport5 Dkl",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp5/chunks.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "TrueSport7 Dkl",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/chunks.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Spotv1 Dkl",
+      "image": "https://rentapi.blackboxsys.net/images/png/hd-spotv.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "group": "ช่องทรูวิชั่น",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "SPOTV2 Dkl",
+      "image": "https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
+      "url": "https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8",
       "referer": "https://warpdooball.net/",
       "userAgent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
       "group": "ช่องทรูวิชั่น",
