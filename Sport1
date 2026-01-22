@@ -17,10 +17,37 @@
     {
       "name": "ONE Championship TV",
       "image": "https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png",
-      "url": "https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8",
-      "referer": "https://jmp2.uk",
+      "url": "https://stitcher.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55",
+      "referer": "pluto.tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
       "info": "Server jmp2.uk",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "F1 Channel",
+      "image": "https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png",
+      "url": "https://stitcher.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55",
+      "referer": "pluto.tv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "info": "Server jmp2.uk",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Fifa+",
+      "image": "https://buddytv.netlify.app/img/no-logo.png",
+      "url": "https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "info": "Server is.gd",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "UEFA Champions League",
+      "image": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",
+      "url": "https://stitcher.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55",
+      "referer": "https://warpdooball.net/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "info": "Server pluto.tv",
       "playInNatPlayer": true
     },
     {
